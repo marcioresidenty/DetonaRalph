@@ -5,7 +5,7 @@
 	flex-direction: column;
 	height: 100vh;
 	background-image: url("../images/wall.png");
-	
+	background-size: cover;
 	}
 	
 .menu {
@@ -17,7 +17,6 @@
 	width: 100%;
 	background-color: #000000;
 	color: #ffffff;
-	border-bottom: 5px solid #ffd700; 
 }
 
 .panel{
@@ -32,18 +31,11 @@
 	height: 150px;
 	width: 150px;
 	border: 1px solid black;
-	background: #1aeaa5;
+	background: #7fffd4;
 	
 }
 
 .enemy {
 	background-image: url("../images/ralph.png");
 	background-size: cover;
-}
-
-.menu-lives {
-	display: flex;
-	align-items: center;
-	justify-content: center;
-	
 }

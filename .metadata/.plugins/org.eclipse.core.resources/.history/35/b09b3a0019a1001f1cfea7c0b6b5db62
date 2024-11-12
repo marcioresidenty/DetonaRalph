@@ -31,7 +31,7 @@
        		</div>
        		
        		<div class="menu-lives">
-       			<img alt="Foto do jogador" src="./images/player.png" height="60px"> 
+       			<img alt="" src="./images/player.png">
        			<h2>X3</h2>
        		</div>
        	</div>
