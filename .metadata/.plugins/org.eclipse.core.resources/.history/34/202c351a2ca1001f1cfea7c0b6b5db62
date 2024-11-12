@@ -29,9 +29,6 @@ function countDown() {
 	state.view.timeLeft.textContent = state.values.curretTime;
 	
 		if(state.values.curretTime<= 0) {
-			clearInterval(state.actions.countDownTimerId);
-			clearInterval(state.actions.timerId);
-			
 			alert("Gamer Over! O seu resultado foi: " +state.values.result);
 		}
 	
@@ -52,8 +49,9 @@ function randomSquare() {
 	state.values.hitPosition = randomSquare.id;
 }
 
-
-
+function moveEnemy() {
+	state.values.timerId = setInterval(randomSquare, state.values.gameVelocity)
+}
 
 function addListenerHitBox() {
 	state.view.squares.forEach((square) => {
@@ -71,7 +69,7 @@ function addListenerHitBox() {
 
 function initialize() {
 	
-	
+	moveEnemy();
 	addListenerHitBox();
 	
 	
