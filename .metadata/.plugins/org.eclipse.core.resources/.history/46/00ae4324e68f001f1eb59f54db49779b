@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Trabalhando e Estudando</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+
+	<header id=inicio>
+	
+	     <div id=logo>
+	          logo
+	     </div>
+	     
+	      <div id=lista-cabecalho>
+	         <nav id=navegador >
+  				<ul>
+    				<li><a href="#">Home</a></li>
+    				<li><a href="#">Profissionais</a></li>
+    				<li><a href="#">Filiais</a></li>
+    				<li><a href="#">Sobre</a></li>
+    				<li><a href="#">Contato</a></li>
+  				</ul>
+			</nav>
+	     </div>
+	     
+	</header>
+	
+	<main id=meio>
+		  <div id= lateral-esquerda>
+		       lateral com 20% de largura
+		  </div>
+		  <div id=lateral-direita>
+		  		<div class="tabuleiro">
+  					<div class="quadrado"> </div>
+  				</div>
+		  </div>
+	</main>
+	
+	<footer id=fim>
+	    rodape
+	</footer>
+
+
+
+</body>
+</html>

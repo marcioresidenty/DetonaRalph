@@ -1,0 +1,38 @@
+.banner {
+width: 1440px;
+height: 605px;
+gap: 0px;
+border: 0px 0px 1px 0px;
+opacity: 0px;
+	
+	
+	border: 2px solid red;
+}
+
+.banner-content {
+
+	width: Hug (510px)px;
+height: Hug (393px)px;
+top: 56px;
+left: 465px;
+gap: 16px;
+opacity: 0px;
+	
+	border: 2px solid yellow;
+}
+h1 {
+	font-family: Raleway;
+	font-size: 40px;
+	font-weight: 900;
+	line-height: 46.96px;
+	text-align: left;
+
+	width: 434px;
+	height: 47px;
+	gap: 0px;
+	opacity: 0px;
+
+	background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+
+	
+}

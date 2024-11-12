@@ -1,0 +1,14 @@
+/**
+ * 
+ */
+function mudarCor() {
+  document.getElementById("meuParagrafo").style.color = "red";
+}
+
+function mudarCor2() {
+ const meuElemeto =  document.getElementById("tab1");
+ 
+ 	meuElemeto.addEventListener ("mousemove", function() {
+	
+ })
+}

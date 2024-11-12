@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Trabalhando e Estudando</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+	<header id=inicio>
+	     <div id=logo>
+	          logo
+	     </div>
+	      <div id=lista-cabecalho>
+	          logo
+	     </div>
+	     
+	</header>
+	
+	<main id=meio>
+		  <div id= lateral-esquerda>
+		       lateral com 20% de largura
+		  </div>
+		  <div id=>
+		  
+		  </div>
+	</main>
+	
+	<footer id=fim>
+	    rodape
+	</footer>
+
+
+
+</body>
+</html>

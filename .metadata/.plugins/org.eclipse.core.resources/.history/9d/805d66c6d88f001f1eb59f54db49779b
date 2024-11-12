@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Trabalhando e Estudando</title>
+<link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+	<header id=inicio>
+	  logo
+	</header>
+	<main id=meio>
+	      texto
+	</main>
+	<footer id=fim>
+	    rodape
+	</footer>
+
+
+
+</body>
+</html>

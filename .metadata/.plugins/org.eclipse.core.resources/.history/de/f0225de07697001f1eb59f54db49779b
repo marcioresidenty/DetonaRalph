@@ -1,0 +1,36 @@
+.banner {
+display:flex;
+    width: 1440px;
+	height: 605px;
+	
+	background-image: url("./assets/images/banner.png");
+	border: 2px solid red;
+	 justify-content: center;
+}
+
+.banner-content {
+   
+	width: 510px;
+	height: 393px;
+	
+
+	
+	border: 2px solid yellow;
+}
+
+.logo {
+	margin-top:56px;
+	margin-left: 465px;
+	width:  268px;
+height:  268px;
+
+gap: 16px;
+opacity: 0px;
+		border: 2px solid green;
+		background: black;
+}
+
+h1 {
+
+	
+}

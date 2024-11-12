@@ -1,0 +1,10 @@
+/**
+ * 
+ */
+function mudarCor() {
+  document.getElementById("meuParagrafo").style.color = "red";
+}
+
+function mostrarMensagem() {
+  alert("Você passou o mouse!");
+}

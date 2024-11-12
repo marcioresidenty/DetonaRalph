@@ -1,0 +1,29 @@
+.banner {
+
+	
+	background-image: url("./assets/images/banner.png");
+	border: 2px solid red;
+}
+
+.banner-content {
+width: 510px;
+height: 393px;
+	
+	
+	border: 2px solid yellow;
+}
+
+.logo {
+	width:  510px;
+height:  393px;
+top: 56px;
+left: 465px;
+gap: 16px;
+opacity: 0px;
+		border: 2px solid green;
+}
+
+h1 {
+
+	
+}

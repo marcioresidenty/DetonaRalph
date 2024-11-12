@@ -1,0 +1,15 @@
+.banner {
+
+	border: 2px solid red;
+}
+
+.banner-content {
+width: Hug (510px)px;
+height: Hug (393px)px;
+top: 56px;
+left: 465px;
+gap: 16px;
+opacity: 0px;
+	
+	border: 2px solid yellow;
+}

@@ -1,0 +1,48 @@
+.banner {
+display:flex;
+    width: auto;
+	height: 605px;
+	
+	background-image: url("./assets/images/banner.png");
+	border: 2px solid red;
+	 justify-content: center;
+	
+	
+}
+
+.banner-content {
+    text-align: center;
+	width: 480px;
+	height: 480px;
+	margin-top:56px;
+	
+
+	
+	border: 2px solid yellow;
+}
+
+.logo {
+	
+	font-size: 20px;
+	width:  480px;
+	height:  268px;
+
+	
+opacity: 0px;
+		border: 2px solid green;
+		background: black;
+}
+p{
+	
+	font-size: 20px;
+
+
+
+	
+	
+}
+
+h1 {
+
+	
+}

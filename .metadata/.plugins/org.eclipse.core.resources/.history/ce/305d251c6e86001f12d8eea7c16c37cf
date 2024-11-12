@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<h1>Exemplos</h1>
+<h2>Livros de notas </h2>
+<p>Simples livro de notas online é util para registrar e gerenciar as notas e lições dos estudantes online. </p>
+
+<form action="" name="cadastro" method="POST">
+	Nome do Estudante: <input type=" text" name="name"/> </br> 
+	Idade: <input type=" nuber" name="idade"/> </br> 
+	Senha: <input type=" password" name="password"/> </br>
+	<button type= "submit"> Enviar</button> 
+
+</form>
+</body>
+</html>

@@ -1,0 +1,76 @@
+body{
+ background: black;	
+	
+}
+
+.banner {
+display:flex;
+    width: auto;
+	height: 605px;
+	background-image: url("./assets/images/banner.png");
+	justify-content: center;
+		
+}
+
+.banner-content {
+    text-align: center;
+	width: 480px;
+	height: 480px;
+	margin-top:56px;
+
+}
+
+.logo {
+	
+	font-size: 20px;
+	width:  480px;
+	height:  240px;
+	opacity: 0px;
+		
+}
+p{
+	color: white;
+	font-size: 20px;
+    font-family: Raleway;
+}
+
+h1 {
+color: #33A8db;
+font-size: 40px;
+font-weight: 900;
+line-height: 46.96px;
+font-family: Raleway;
+	
+}
+p{
+	font-weight: 400;
+	line-height: 23.48px;
+	font-size: 20px;
+	font-family: Raleway;
+}
+
+button {
+	font-family: Raleway;
+    font-weight: 900px; 
+    color: #31A8DD;
+    padding-bottom: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

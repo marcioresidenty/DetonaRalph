@@ -1,0 +1,6 @@
+/**
+ * 
+ */
+function mudarCor() {
+  document.getElementById("tab1").style.color = "red";
+}

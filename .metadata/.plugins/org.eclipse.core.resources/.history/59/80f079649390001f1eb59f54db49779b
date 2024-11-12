@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Trabalhando e Estudando</title>
+<link rel="stylesheet" href="estilo.css">
+<script 
+src="javaScript.js">
+
+</script>
+</head>
+<body>
+	<div id=pagina>
+	<header id=inicio>
+	
+	     <div id=logo>
+	    
+	        
+	     </div>
+	     
+	      <div id=lista-cabecalho>
+	         <nav id=navegador >
+  				<ul>
+    				<li><a href="#">Home</a></li>
+    				<li><a href="#">Profissionais</a></li>
+    				<li><a href="#">Filiais</a></li>
+    				<li><a href="#">Sobre</a></li>
+    				<li><a href="#">Contato</a></li>
+  				</ul>
+			</nav>
+	     </div>
+	     
+	</header>
+	
+	<main id=meio>
+		  <div id= lateral-esquerda>
+		  
+		     <nav id=regras-jogo>
+		      <h2>Regras do jogo</h2>
+		      	<ol>
+    				<li>O jogo é disputado entre dois jogadores, com 12 peças brancas e 12 peças pretas.</li><br>
+    				<li>O jogador com as peças brancas inicia o jogo. </li><br>
+    				<li>As peças movem-se uma casa de cada vez, para a frente e na diagonal. </li><br>
+    				<li>Quando uma peça atinge a última fila, torna-se dama.</li><br>
+    				<li>A dama pode mover-se em qualquer direção, incluindo na diagonal.</li><br>
+    				<li>A captura é obrigatória.</li><br>
+    				<li>Não é possível capturar duas ou mais peças juntas na mesma diagonal.</li><br>
+    				<li>A pedra e a dama podem capturar tanto para frente.</li><br>
+    				<li>O jogo termina quando as peças não tiverem mais movimentos ou todas tiverem sido “comidas”.</li>
+    				
+  				</ol>
+			</nav>
+		  </div>
+		  <div id=lateral-direita>
+		  		<div class="tabuleiro">
+  					<div onmouseover="mostrarMensagem()" class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  					<div class="quadrado"> </div>
+  				</div>
+		  </div>
+	</main>
+	
+	<footer id=fim>
+	
+	<span>Todos os direitos reservados</span>
+	
+<button onclick="mudarCor()">Mudar Cor</button>
+<p id="meuParagrafo">Este é um parágrafo.</p>
+<div id="tooltip" style="display: none;">Isso é um tooltip!</div>
+<p onmouseover="mostrarTooltip()" onmouseout="esconderTooltip()">Passe o mouse aqui para ver o tooltip.</p>
+
+
+	</footer>
+ 
+
+</div>
+</body>
+</html>

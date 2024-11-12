@@ -1,0 +1,38 @@
+.banner {
+
+	
+	background-image: url("./assets/images/banner.png");
+	border: 2px solid red;
+}
+
+.banner-content {
+
+	
+	
+	border: 2px solid yellow;
+}
+
+.logo {
+	width:  510px;
+height:  393px;
+top: 56px;
+left: 465px;
+gap: 16px;
+opacity: 0px;
+		border: 2px solid green;
+}
+
+h1 {
+	width: 434px;
+height: 47px;
+gap: 0px;
+opacity: 0px;
+	
+	font-family: Raleway;
+font-size: 40px;
+font-weight: 900;
+line-height: 46.96px;
+text-align: left;
+	background: linear-gradient(180deg, #33A8DB 0%, #1472B7 100%);
+	
+}

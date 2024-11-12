@@ -1,0 +1,64 @@
+@charset "UTF-8";
+
+
+body {
+	border: 2px solid red;
+	margin: 2px auto;
+	width: 65%;
+	height:auto;
+}
+#inicio {
+	border: 2px solid black;
+	height: 100px;
+	margin: 2px;
+	display: flex;
+    
+}
+
+#logo {
+	border: 2px solid black;
+	width: 20%;
+	margin: 2px;
+	display: inline;
+	
+}
+
+#lista-cabecalho {
+	
+	margin: 2px;
+	
+	
+}
+#navegador ul {
+	
+	list-style-type: none;
+	display: flex;
+}
+
+#navegador a {
+	border: solid 2px;
+	padding: 10px;
+	margin: 20px;
+	display: block; 
+}
+
+#meio {
+	
+	border: 2px solid blue;
+	height: 600px;
+	margin: 2px;
+	
+}
+
+#lateral-esquerda {
+	border: 2px solid blue;
+	margin: 2px;
+	width: 15%;
+	height:98.5%;
+}
+
+#fim {
+	border: 2px solid yellow;
+	height: 100px;
+	margin: 2px;
+}

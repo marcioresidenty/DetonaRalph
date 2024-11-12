@@ -1,0 +1,25 @@
+.banner {
+
+	
+	border: 2px solid red;
+}
+
+.banner-content {
+font-family: Raleway;
+font-size: 20px;
+font-weight: 400;
+line-height: 23.48px;
+text-align: center;
+	
+	border: 2px solid yellow;
+}
+h1 {
+	font-family: Raleway;
+font-size: 40px;
+font-weight: 900;
+line-height: 46.96px;
+text-align: left;
+
+
+	
+}

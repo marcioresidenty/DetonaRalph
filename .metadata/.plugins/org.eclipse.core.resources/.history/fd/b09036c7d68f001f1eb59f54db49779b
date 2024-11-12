@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+
+body {
+	border: 2px solid red;
+	margin: 0 10px 0 10px;
+	width: 80% ;
+	height:auto
+}
+.inicio {
+	
+}
+
+meio {
+	
+	
+}
+
+fim {
+	
+}
