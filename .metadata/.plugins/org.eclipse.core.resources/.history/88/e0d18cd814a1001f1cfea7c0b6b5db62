@@ -32,7 +32,3 @@
 	background: #80ffff;
 	
 }
-
-.enemy {
-	background-color: #ff0000;
-}

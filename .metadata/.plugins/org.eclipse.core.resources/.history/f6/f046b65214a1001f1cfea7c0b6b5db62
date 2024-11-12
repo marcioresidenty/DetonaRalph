@@ -26,13 +26,6 @@
 }
 
 .square {
-	height: 150px;
-	width: 150px;
-	border: 1px solid black;
-	background: #80ffff;
 	
-}
-
-.enemy {
-	background-color: #ff0000;
+	
 }

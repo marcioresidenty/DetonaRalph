@@ -33,6 +33,6 @@
 	
 }
 
-.enemy {
+enemy {
 	background-color: #ff0000;
 }

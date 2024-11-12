@@ -29,10 +29,6 @@
 	height: 150px;
 	width: 150px;
 	border: 1px solid black;
-	background: #80ffff;
+	background: aqua;
 	
-}
-
-.enemy {
-	background-color: #ff0000;
 }

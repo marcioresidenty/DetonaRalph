@@ -19,20 +19,8 @@
 
 .panel{
 	margin-top: 1rem;
-	display: flex;
-	align-items: center;
-	justify-content: center;	
-	border: 1px solid red;
-}
-
-.square {
-	height: 150px;
-	width: 150px;
-	border: 1px solid black;
-	background: #80ffff;
 	
-}
-
-.enemy {
-	background-color: #ff0000;
+	
+	
+	
 }
