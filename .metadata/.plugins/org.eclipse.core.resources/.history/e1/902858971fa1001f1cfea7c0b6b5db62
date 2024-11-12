@@ -1,0 +1,13 @@
+/**
+ * 
+ */
+
+const state = {
+	view: {
+	squares: document.queryselectAll(".square"),
+	enemy: document.querySelector(".enemy"),
+	
+	},
+	
+	value: {},
+};

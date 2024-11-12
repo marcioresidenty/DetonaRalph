@@ -10,10 +10,7 @@ const state = {
 		score: document.querySelector("#score"),
 	},
 	
-	values: {
-		timerId: null,
-		gameVelocity: 1000
-	},
+	value: {},
 };
 
 // Limpa a classe inimiga de todos os quadrados 
@@ -29,9 +26,6 @@ function randomSquare() {
 	randomSquare.classList.add("enemy");
 }
 
-function moveEnemy() {
-	state.values.timerId = setInterval(randomSquare, state.values.gameVelocity)
-}
 
 function addListenerHitBox() {
 	state.view.squares.forEach((square) => {
@@ -41,7 +35,7 @@ function addListenerHitBox() {
 
 function initialize() {
 	
-	moveEnemy();
+	randomSquare();
 	
 }
 
