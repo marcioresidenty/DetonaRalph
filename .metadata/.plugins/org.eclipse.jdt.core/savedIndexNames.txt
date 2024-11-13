@@ -2,7 +2,6 @@ INDEX VERSION 1.134+C:\Users\1310227\Desktop\Projetos\Dio Projeto Ri Happy\.meta
 4042282123.index
 410067427.index
 3192190400.index
-2568874309.index
 2458587787.index
 4185653707.index
 3458777854.index

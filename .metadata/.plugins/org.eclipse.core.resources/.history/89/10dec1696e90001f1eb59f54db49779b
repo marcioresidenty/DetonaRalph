@@ -1,7 +1,0 @@
-/**
- * 
- */
-
-const elemento = document.getElementById('tab1');
-elemento.style.backgroundColor = 'red';
-elemento.style.fontSize = '20px';

@@ -1,9 +1,0 @@
-.banner {
-
-	border: 2px solid red;
-}
-
-.banner-content {
-
-	border: 2px solid yellow;
-}
